@@ -1,8 +1,1 @@
-[{"name":"Juan Pérez","id":"12345","phone":"5551234"},
-  {"name":"Ana Gómez","id":"67890","phone":"5555678"},
-  {"name":"Carlos López","id":"11223","phone":"5559876"},
-  {"name":"lorena jojoa","id":"12345","phone":"567849"},
-  {"name":"lorena jojoa","id":"12345","phone":"567849"},
-  {"name":"lorena jojoa","id":"12345","phone":"567849"},
-  {"name":"lorena jojoa","id":"12345","phone":"567849"},
-  {"name":"lorena jojoa","id":"12345","phone":"567849"}]
+[{"name":"Juan Perez","id":"12345","phone":"555-1234","birthDate":"1990-05-15"},{"name":"Maria Lopez","id":"12346","phone":"555-5678","birthDate":"1990-05-15"},{"name":"Carlos Gomez","id":"12347","phone":"555-8765","birthDate":"1992-12-10"},{"name":"Ana Martinez","id":"12348","phone":"555-4321","birthDate":"1988-07-05"},{"name":"Luis Fernandez","id":"12349","phone":"555-6789","birthDate":"1995-03-30"},{"name":"Sofia Ramirez","id":"12350","phone":"555-3456","birthDate":"1991-09-12"},{"name":"Pedro Herrera","id":"12351","phone":"555-2345","birthDate":"1990-05-15"},{"name":"Gabriela Castro","id":"12352","phone":"555-7890","birthDate":"1993-06-18"},{"name":"Ricardo Torres","id":"12353","phone":"555-6543","birthDate":"1989-02-14"},{"name":"Elena Rojas","id":"12354","phone":"555-9876","birthDate":"1990-05-15"},{"name":"Ana","id":"1023456","phone":"3001234567","birthDate":"1995-05-20"},{"name":"Ana","id":"1023456","phone":"3001234567","birthDate":"1995-05-20"},{"name":"Ana","id":"1023456","phone":"3001234567","birthDate":"1995-05-20"},{"name":"Ana","id":"1023456","phone":"3001234567","birthDate":"1995-05-20"},{"name":"Ana","id":"1023456","phone":"3001234567","birthDate":"1995-05-20"},{"name":"Ana","id":"1023456","phone":"3001234567","birthDate":"1995-05-20"}]
